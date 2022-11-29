@@ -32,4 +32,5 @@ La calidad de la predicción se medirá a partir del Mean Absolute Error (MAE).
 
 ## Archivos del repositorio
 - **Predicción de tiempo de carrera a pie 32 features:** Notebook que recoge todo el proceso de escoger y crear el modelo para predecir los datos.
-- **Predicción de tiempo de carrera a pie.pdf:** Archivo en formato pdf que contiene el trabajo escrito en estilo tipo "Paper".
+- **Predicción de tiempo de carrera a pie.pdf:** Archivo en formato pdf que contiene la presentación del trabajo escrito en estilo tipo "Paper Académico".
+- **activities_garmin.csv:** Datos recolectados desde la aplicación Garmin Connect
