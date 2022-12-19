@@ -7,7 +7,7 @@ El presente trabajo, es parte del trabajo final del curso de Data Science impart
 ## Objectivo  
 
 El objetivo del reto es realizar un modelo predictivo basado en algoritmos de regresión, que permitan conocer el tiempo que un usuario tarde en correr una distancia indicada, en función los datos previos, particularidades propias del usuario y características del circuito donde correrá.  
-La calidad de la predicción se medirá a partir del Mean Absolute Error (MAE).  
+La calidad de la predicción se medirá a partir del Mean Absolute Error (MAE) y del error cuadrático (R2).  
 
 ## Métodos usados  
 - Inferential Statistics
