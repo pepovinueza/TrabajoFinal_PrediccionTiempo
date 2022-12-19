@@ -20,7 +20,7 @@ La calidad de la predicción se medirá a partir del Mean Absolute Error (MAE) y
 ## Descripción de los datos  
 **Variables del dataset:**  
 
-- **Features:** El dataset contiene 32 features en 32 columnas, que son los parámetros medidos por el reloj de pulsera utilizado. Estos corresponden a las características y parámetros de las actividades físicas registradas.  
+- **Features:** El dataset contiene 33 features en 33 columnas (transformadas), que son los parámetros medidos por el reloj de pulsera utilizado. Estos corresponden a las características y parámetros de las actividades físicas registradas.  
 - **Target:** El target corresponde al tiempo que se tardaron en realizar dichas actividades.  
 
 ## Requisitos de este proyecto  
